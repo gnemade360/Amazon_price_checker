@@ -13,10 +13,10 @@ Copy code
 pip install requests beautifulsoup4
 How to Run the Amazon Price Checker
 Clone or download the repository to your local machine.
-Navigate to the project directory containing the Python script (amazon_price_checker.py).
+Navigate to the project directory containing the Python script (price_checker.py).
 Run the amazon_price_checker.py script using the following command:
 Copy code
-python amazon_price_checker.py
+python price_checker.py
 The program will prompt you to enter the Amazon product URL.
 The current price of the product will be displayed.
 Program Description
